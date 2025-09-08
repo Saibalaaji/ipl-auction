@@ -12,4 +12,5 @@
 -            </div>
              <div className="max-w-7xl mx-auto">
                  <div className="flex justify-between items-center mb-6">
-                     <h1 className="text-2xl md:text-3xl font-bold text-gray-900 dark:text-white">IPL Auction 2024</h1>
+                     <h1 className="text-2xl md:text-3xl font-bold text-gray-900 dark:text-white">IPL Auction 2
+     )024</h1>
